@@ -1,0 +1,9 @@
+cachy keybinds
+cachy rice
+
+
+determine host
+determine domain
+
+setup server on AWS/DO
+configure SSH into server
